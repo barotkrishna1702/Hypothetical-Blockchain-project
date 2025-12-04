@@ -35,19 +35,20 @@ Frontend
 A simple web page (planned) where users can upload a file and view their registered ideas.
 
 Backend
+</br>
 A lightweight Python or Node.js service will:
  Generate hashes
  Interact with the blockchain node
  Handle basic user authentication
 
-Blockchain Layer
+Blockchain Layer </br>
 Smart contract deployed.
 
 Future Enhancements
 </br>
- Automated licensing and royalty systems
- Tokenized ownership certificates 
- Public verification portal
- Frontend UI for easy idea uploads
- Backend integration with Web3 libraries
- Versioning system for updated ideas
+ Automated licensing and royalty systems </br>
+ Tokenized ownership certificates </br>
+ Public verification portal </br>
+ Frontend UI for easy idea uploads </br>
+ Backend integration with Web3 libraries </br>
+ Versioning system for updated ideas 
