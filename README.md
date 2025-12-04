@@ -9,12 +9,12 @@ This system uses blockchain to create immutable, timestamped proof of ownership,
 
 Key Features
 
-Register an idea or creative work using file hashing
- Generate a unique SHA-256 hash for each uploaded file
- Store the hash permanently on a blockchain network
- Verify ownership based on hash and timestamp
- Prevent duplicate registrations
- Issue a digital ownership certificate through smart contract events
+Register an idea or creative work using file hashing </br>
+ Generate a unique  hash for each uploaded file </br>
+ Store the hash permanently on a blockchain network </br>
+ Verify ownership based on hash and timestamp </br>
+ Prevent duplicate registrations </br>
+ Issue a digital ownership certificate through smart contract events </br>
  Optional future extension for licensing and royalty distribution
 
 How It Works
