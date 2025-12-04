@@ -1,6 +1,6 @@
 # Hypothetical-Blockchain-project
 
-<b>Blockchain-Based Intellectual Property Proof & Protection System</b>
+<b>Blockchain-Based Intellectual Property Proof & Protection System</b> </br>
 Overview
 
 This project proposes a simple and accessible way to secure intellectual property (IP) using blockchain. Many individuals share ideas—business concepts, creative works, designs, prototypes—without any formal protection. As a result, their ideas can be copied, misused, or claimed by someone else. Traditional IP processes like patents or copyrights are slow, expensive, and not practical for early-stage concepts.
@@ -44,6 +44,7 @@ Blockchain Layer
 Smart contract deployed.
 
 Future Enhancements
+</br>
  Automated licensing and royalty systems
  Tokenized ownership certificates 
  Public verification portal
